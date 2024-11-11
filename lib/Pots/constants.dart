@@ -1,0 +1,1 @@
+int target_amount =10000;
